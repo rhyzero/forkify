@@ -1,4 +1,4 @@
-4340
+4343
 90C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\csso133024831060811505 1
 117C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\regions\AF.js133024831055530194 0
 119C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Ratio.js133024831063005497 0
@@ -17,14 +17,14 @@
 104C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\utility-types\dist133024831057503929 1
 105C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\type-fest\readme.md133024831052213508 0
 143C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133024831054264672 0
-85C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules133024833936842245 1
+85C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules133024834532083273 1
 131C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\mutation-events.js133024831068682886 0
 84C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\.prettierrc132998834678044997 0
 117C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\regions\HK.js133024831067056039 0
 139C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133024831056014116 0
 111C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\terser\lib\mozilla-ast.js133024831059682713 0
 135C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\dom-serializer\node_modules\entities\lib\index.js133024831053927593 0
-77C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist133024833952514303 1
+77C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist133024941251047678 1
 121C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\svgo\plugins\convertStyleToAttrs.js133024831057914420 0
 91C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\clone133024831054161972 1
 123C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\csso\lib\restructure\1-mergeAtrule.js133024831051632266 0
@@ -36,7 +36,7 @@
 126C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@mischnic\json-sourcemap\dist\index.d.ts133024831052726386 0
 123C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\transformer-babel\lib\flow.js133024831056014116 0
 131C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\src\_class_private_field_set.mjs133024831063044575 0
-91C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@lmdb133024833936852012 1
+91C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@lmdb133024834532093039 1
 109C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@trysound\sax\README.md133024831053361166 0
 113C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\utility-types\dist\index.js133024831052697085 0
 125C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\mpeg-dash.js133024831068594994 0
@@ -48,11 +48,11 @@
 90C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\img\icons.svg132998834678259858 0
 105C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\term-size\readme.md133024831055222385 0
 123C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\package-manager\test\fixtures133024831059174887 1
-83C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\index.html132998834678230548 0
+83C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\index.html133024836420972561 0
 155C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\index.js133024831058891676 0
 104C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\mdn-data\README.md133024831058495986 0
 93C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\is-glob133024833931416088 1
-85C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\package.json133024833937384417 0
+85C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\package.json133024834532522738 0
 128C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\console-time.js133024831063142224 0
 131C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\htmlnano\lib\modules\removeEmptyAttributes.js133024831058105015 0
 106C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\packager-raw133024831052755680 1
@@ -61,13 +61,13 @@
 102C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\lmdb\src\txn.cpp133024831062565661 0
 120C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\core\src\ReporterRunner.js133024831063455066 0
 107C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\msgpackr\package.json133024831056717605 0
-104C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\.package-lock.json133024833937569974 0
+104C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\.package-lock.json133024834532737588 0
 107C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\msgpackr\iterators.js133024831054953665 0
 92C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\dotenv133024831053986184 1
 110C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\css-tree\dist\csstree.js133024831058979567 0
 127C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\type-fest\source\require-exactly-one.d.ts133024831058632711 0
 117C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\regions\SB.js133024831069865604 0
-90C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\package-lock.json133024833937374655 0
+90C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\package-lock.json133024834532512973 0
 105C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\nth-check\README.md133024831057646075 0
 101C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\sass\_searchResults.scss132998834678337970 0
 108C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\commander\CHANGELOG.md133024831054274439 0
@@ -161,7 +161,7 @@
 100C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\immutable\dist133024833933770005 1
 111C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\yaml\browser\parse-cst.js133024831057821488 0
 110C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\postcss-value-parser\lib133024831055163797 1
-93C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\controller.js132998834678289148 0
+93C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\controller.js133024941250091764 0
 113C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\utils\src\is-url.js133024831059594819 0
 90C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\.bin133024833936803184 1
 135C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\css-optional-pseudo.js133024831064920625 0
@@ -190,12 +190,12 @@
 103C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\binary-extensions133024833932539161 1
 126C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\lib\_array_like_to_array.js133024831052076782 0
 108C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\fs\src\find.js133024831052677553 0
-103C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@msgpackr-extract133024833936852012 1
+103C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@msgpackr-extract133024834532093039 1
 118C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\electron-to-chromium\versions.js133024831054640820 0
 107C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\codeframe\src133024831058212444 1
 110C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\xxhash-wasm\package.json133024831053439298 0
 136C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133024831058422578 0
-93C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel133024833936842245 1
+93C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel133024834532083273 1
 103C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\terser\lib\ast.js133024831055173559 0
 99C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\color-convert133024831054494336 1
 111C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\binary-extensions\license133024833931650464 0
@@ -833,7 +833,7 @@
 157C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob133024831062604729 1
 133C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\package-manager\src\NodeResolverBase.js133024831058363978 0
 115C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\weak-lru-cache\dist\index.cjs133024831051094805 0
-96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css133024833952060001 0
+96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css133024939804486698 0
 109C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-image133024831063132456 1
 128C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\css-tree\lib\definition-syntax\generate.js133024831060791967 0
 110C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\v8-compile-cache\LICENSE133024831051040921 0
@@ -3197,7 +3197,7 @@
 130C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\input-datetime.js133024831067505594 0
 128C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\core\test\fixtures\invalid-targets133024831064930390 1
 135C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\input-email-tel-url.js133024831067515364 0
-96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\icons.21bad73c.svg133024833952475241 0
+96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\icons.21bad73c.svg133024939804987155 0
 133C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\input-file-accept.js133024831067534893 0
 114C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\workers\lib\Trace.js133024831058979567 0
 153C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-json5133024831056253552 0
@@ -4334,8 +4334,11 @@
 101C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\.bin\semver.cmd133024831072401478 0
 97C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\.bin\terser133024831072391701 0
 98C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\favicon.8b2f57bf.png133024833952060001 0
+96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\icons.dfd7a6db.svg133024940897255219 0
 95C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.62406edb.js133024833952455707 0
 99C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.62406edb.js.map133024833952504542 0
-100C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css.map133024833952114216 0
-88C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.html133024833952455707 0
-95C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\logo.726d37a8.png133024833952279921 0
+95C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js133024941250997635 0
+99C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js.map133024941251037672 0
+100C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css.map133024939804526739 0
+88C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.html133024940896674687 0
+95C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\logo.726d37a8.png133024939804877052 0
