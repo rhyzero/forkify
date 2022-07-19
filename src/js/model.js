@@ -5,6 +5,10 @@ import recipeView from './views/recipeView'
 
 export const state = {
     recipe: {},
+    search: {
+        query: '',
+        results: [],
+    },
 }
 
 export const loadRecipe = async function(id) {
@@ -22,10 +26,26 @@ export const loadRecipe = async function(id) {
           cookingTime: recipe.cooking_time,
           ingredients: recipe.ingredients
         }
-        console.log(state.recipe);
     }
     catch(err) {
         console.error(`${err} 🗿`)
+        throw err;
+    }
+}
+
+export const loadSearchResults = async function(search) {
+    try{
+        state.search.query = search
+        const data = await getJSON(`${api_URL}?search=${search}`)
+        state.search.results = data.data.recipes.map(rec => {
+            return {
+                id: rec.id,
+                title: rec.title,
+                publisher: rec.publisher,
+                image: rec.image_url
+            }
+        })
+    }catch(err) {
         throw err;
     }
 }

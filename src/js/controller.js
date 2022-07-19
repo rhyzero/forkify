@@ -1,9 +1,15 @@
 import * as model from './model.js'
 import recipeView from './views/recipeView.js'
-
+import searchView from './views/searchView.js'
+import resultsView from './views/resultsView.js'
 
 import 'core-js/stable'
 import 'regenerator-runtime/runtime'
+import { async } from 'regenerator-runtime'
+
+if (module.hot) {
+  module.hot.accept();
+}
 
 const recipeContainer = document.querySelector('.recipe');
 
@@ -14,7 +20,6 @@ const showRecipe = async function() {
   try {
     const id = window.location.hash.slice(1)
     if (!id) return
-    console.log(id);
     recipeView.renderSpinner(recipeContainer);
     //1. Getting recipe from API
     await model.loadRecipe(id);
@@ -26,7 +31,25 @@ const showRecipe = async function() {
   }
 };
 
+const controlSearchResults = async function() {
+  try{
+    resultsView.renderSpinner();
+    const query = searchView.getQuery();
+    if (!query) return
+    
+    await model.loadSearchResults(query)
+
+    resultsView.render(model.state.search.results)
+  }catch(err){
+    throw err;
+    console.error(err)
+  }
+}
+
+controlSearchResults();
+
 const init = function() {
   recipeView.addHandlerRender(showRecipe)
+  searchView.addHandlerSearch(controlSearchResults)
 }
 init();
