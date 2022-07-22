@@ -577,13 +577,17 @@ const controlSearchResults = async function() {
         throw err;
     }
 };
-controlSearchResults();
+const controlServings = function(newServings) {
+    _modelJs.updateServings(newServings);
+    (0, _recipeViewJsDefault.default).render(_modelJs.state.recipe);
+};
 const controlPagination = function(goToPage) {
     (0, _resultsViewJsDefault.default).render(_modelJs.getSearchResultPage(goToPage));
     (0, _paginationViewJsDefault.default).render(_modelJs.state.search);
 };
 const init = function() {
     (0, _recipeViewJsDefault.default).addHandlerRender(showRecipe);
+    (0, _recipeViewJsDefault.default).addHandlerUpdateServings(controlServings);
     (0, _searchViewJsDefault.default).addHandlerSearch(controlSearchResults);
     (0, _paginationViewJsDefault.default).addHandlerClick(controlPagination);
 };
@@ -2288,6 +2292,7 @@ parcelHelpers.export(exports, "state", ()=>state);
 parcelHelpers.export(exports, "loadRecipe", ()=>loadRecipe);
 parcelHelpers.export(exports, "loadSearchResults", ()=>loadSearchResults);
 parcelHelpers.export(exports, "getSearchResultPage", ()=>getSearchResultPage);
+parcelHelpers.export(exports, "updateServings", ()=>updateServings);
 var _regeneratorRuntime = require("regenerator-runtime");
 var _config = require("./config");
 var _helpers = require("./helpers");
@@ -2343,6 +2348,12 @@ const getSearchResultPage = function(page = state.search.page) {
     const end = page * state.search.resultsPerPage;
     return state.search.results.slice(start, end);
 };
+const updateServings = function(newServings) {
+    state.recipe.ingredients.forEach((ing)=>{
+        ing.quantity = ing.quantity * newServings / state.recipe.servings;
+    });
+    state.recipe.servings = newServings;
+};
 
 },{"regenerator-runtime":"dXNgZ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","./config":"k5Hzs","./helpers":"hGI1E","./views/recipeView":"l60JC"}],"k5Hzs":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
@@ -2389,6 +2400,7 @@ var _iconsSvgDefault = parcelHelpers.interopDefault(_iconsSvg);
 var _fractional = require("fractional");
 var _view = require("./view");
 var _viewDefault = parcelHelpers.interopDefault(_view);
+var _modelJs = require("../model.js");
 class recipeView extends (0, _viewDefault.default) {
     _parentElement = document.querySelector(".recipe");
     _errorMessage = "This recipe could not be found. Please try another one.";
@@ -2398,6 +2410,14 @@ class recipeView extends (0, _viewDefault.default) {
             "hashchange",
             "load"
         ].forEach((element)=>window.addEventListener(element, handler));
+    }
+    addHandlerUpdateServings(handler) {
+        this._parentElement.addEventListener("click", function(e) {
+            const btn = e.target.closest(".btn--update-servings");
+            if (!btn) return;
+            const updateTo = +btn.dataset.updateTo;
+            if (updateTo > 0) handler(updateTo);
+        });
     }
     _generateMarkup() {
         return `
@@ -2424,12 +2444,12 @@ class recipeView extends (0, _viewDefault.default) {
             <span class="recipe__info-text">servings</span>
 
             <div class="recipe__info-buttons">
-            <button class="btn--tiny btn--increase-servings">
+            <button class="btn--tiny btn--update-servings" data-update-to="${this._data.servings - 1}">
                 <svg>
                 <use href="${0, _iconsSvgDefault.default}#icon-minus-circle"></use>
                 </svg>
             </button>
-            <button class="btn--tiny btn--increase-servings">
+            <button class="btn--tiny btn--update-servings" data-update-to="${this._data.servings + 1}">
                 <svg>
                 <use href="${0, _iconsSvgDefault.default}#icon-plus-circle"></use>
                 </svg>
@@ -2492,7 +2512,7 @@ class recipeView extends (0, _viewDefault.default) {
 }
 exports.default = new recipeView();
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","url:../../img/icons.svg":"loVOp","fractional":"3SU56","./view":"bWlJ9"}],"loVOp":[function(require,module,exports) {
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","url:../../img/icons.svg":"loVOp","fractional":"3SU56","./view":"bWlJ9","../model.js":"Y4A21"}],"loVOp":[function(require,module,exports) {
 module.exports = require("./helpers/bundle-url").getBundleURL("hWUTQ") + "icons.dfd7a6db.svg" + "?" + Date.now();
 
 },{"./helpers/bundle-url":"lgJ39"}],"lgJ39":[function(require,module,exports) {
