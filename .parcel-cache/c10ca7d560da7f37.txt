@@ -1,4 +1,4 @@
-7607
+7609
 104C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\boolbase\README.md133024831051295171 0
 138C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\lmdb\node_modules\node-addon-api\tools\check-napi.js133024831056366033 0
 140C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133024831051852165 0
@@ -21,7 +21,7 @@
 84C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\.prettierrc132998834678044997 0
 111C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\terser\lib\mozilla-ast.js133024831059682713 0
 120C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\typed-array\fill.js133024941817250020 0
-77C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist133027148369552614 1
+77C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist133027368170730970 1
 135C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\dom-serializer\node_modules\entities\lib\index.js133024831053927593 0
 121C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\svgo\plugins\convertStyleToAttrs.js133024831057914420 0
 126C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\string\virtual\fontcolor.js133024941820142763 0
@@ -95,7 +95,7 @@
 118C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\web\url-search-params.js133024941836157327 0
 103C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\react-refresh\cjs133024831054430690 1
 113C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\css-tree\lib\lexer\trace.js133024831063416002 0
-93C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\views\view.js133027139962889815 0
+93C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\views\view.js133027150915086330 0
 101C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\sass\_searchResults.scss132998834678337970 0
 136C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@babel\highlight\node_modules\ansi-styles\index.js133024831051456478 0
 137C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133024831052164676 0
@@ -148,6 +148,8 @@
 125C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\typed-array\methods.js133024941827589529 0
 108C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\es\typed-array133024941836507651 1
 115C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\css-tree\lib\lexer\generic.js133024831060963042 0
+118C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Rule.js133024831063064095 0
+103C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\views\paginationView.js133027368169686020 0
 162C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\build-test.js133024831052067013 0
 127C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\reflect\define-property.js133024941811439695 0
 102C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\get-port\license133024831052667790 0
@@ -216,9 +218,9 @@
 103C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\README.md133024941837288354 0
 118C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.string.sub.js133024941814627639 0
 122C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\object\lookup-setter.js133024941826798813 0
-89C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\config.js133026282319936625 0
+89C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\config.js133027350734496773 0
 116C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\weak-map\index.js133024941824396625 0
-93C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\controller.js133027148368221400 0
+93C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\controller.js133027364297823741 0
 90C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\helpers.js133026296497459934 0
 124C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\lazyload.js133024831068072021 0
 137C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\create-non-enumerable-property.js133024941811109384 0
@@ -244,15 +246,15 @@
 118C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\update-browserslist-db\README.md133024831053390464 0
 122C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\native-weak-map.js133024941827849764 0
 112C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\math\atanh.js133024941809337773 0
-88C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\model.js133027148161277416 0
+88C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\model.js133027354864495278 0
 157C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\index.js133024831055193090 0
 108C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\yaml\browser\schema.js133024831058901446 0
 137C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133024831059663181 0
-85C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\views133027134054341800 1
+85C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\views133027356614897026 1
 117C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\regions\GE.js133024831066743161 0
 127C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\string\virtual\iterator.js133024941825978063 0
 103C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\path-type\license133024831052492002 0
-99C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\views\recipeView.js133027137659349930 0
+99C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\views\recipeView.js133027149294141589 0
 120C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\object\is-frozen.js133024941825177341 0
 110C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\set\from.js133024941821163686 0
 136C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\css-case-insensitive.js133024831063655433 0
@@ -266,7 +268,7 @@
 118C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\string\small.js133024941831593169 0
 124C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\array\reduce-right.js133024941829801541 0
 101C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\.bin\semver.cmd133024831072401478 0
-100C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\views\resultsView.js133027147085699120 0
+100C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\views\resultsView.js133027149838902966 0
 135C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\esnext.async-iterator.flat-map.js133024941815388325 0
 138C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\css-content-visibility.js133024831063801924 0
 99C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\src\js\views\searchView.js133027136749354691 0
@@ -621,11 +623,11 @@
 116C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\type-fest\ts41\snake-case.d.ts133024831058891676 0
 124C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\testfeat.js133024831070578872 0
 108C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\is-arrayish\.npmignore133024831051324469 0
-107C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\htmlnano\package.json133024831060147248 0
-142C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\promise-statics-incorrect-iteration.js133024941828960776 0
-129C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\array\virtual\find-last.js133024941818310985 0
 125C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\instance\reduce-right.js133024941829871606 0
 120C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\array\virtual\sort.js133024941831903448 0
+129C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\array\virtual\find-last.js133024941818310985 0
+107C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\htmlnano\package.json133024831060147248 0
+142C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\promise-statics-incorrect-iteration.js133024941828960776 0
 136C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\src\_define_enumerable_properties.mjs133024831063332823 0
 94C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\readdirp133024833932060632 1
 112C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\es\array\reduce.js133024941829901633 0
@@ -1407,8 +1409,6 @@
 107C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\readdirp\package.json133024833931855548 0
 116C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\date\to-json.js133024941833394808 0
 131C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\esnext.array.filter-reject.js133024941815228177 0
-113C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\source-map-js\source-map.js133024833933032508 0
-125C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\reflect\define-metadata.js133024941811299569 0
 115C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\terser\node_modules\commander133024831054171751 1
 112C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\lmdb\util\RangeIterable.js133024831063572257 0
 127C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.object.from-entries.js133024941813646738 0
@@ -1683,9 +1683,6 @@
 102C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\svgo\lib\path.js133024831058999107 0
 143C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133024831061700876 0
 109C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\svgo\lib\stringifier.js133024831061681340 0
-130C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\array\virtual\to-spliced.js133024941833965328 0
-109C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\instance133024941836627751 1
-135C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133024831061969613 0
 110C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\domutils\lib\querying.js133024831054640820 0
 128C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\typed-array\find-index.js133024941818030730 0
 129C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\dom-exception\to-string-tag.js133024941834105452 0
@@ -1738,6 +1735,8 @@
 118C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\string\italics.js133024941825627747 0
 107C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\source-map-js\LICENSE133024833932343843 0
 115C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\source-map-js\source-map.d.ts133024833933359841 0
+113C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\source-map-js\source-map.js133024833933032508 0
+125C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\reflect\define-metadata.js133024941811299569 0
 118C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.math.log1p.js133024941813416529 0
 116C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\source-map-js\lib\array-set.js133024833932519632 0
 122C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.regexp.dot-all.js133024941814317350 0
@@ -2501,6 +2500,9 @@
 161C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133024831059311607 0
 134C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133024831061525088 0
 127C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\internals\object-is-extensible.js133024941828049947 0
+130C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\array\virtual\to-spliced.js133024941833965328 0
+109C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\stable\instance133024941836627751 1
+135C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133024831061969613 0
 127C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\number\to-exponential.js133024941833134575 0
 138C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c133024831061256354 0
 113C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\utils\src\stream.js133024831061544623 0
@@ -3342,7 +3344,6 @@
 133C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\fieldset-disabled.js133024831066371712 0
 135C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133024831062976200 0
 122C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\modules\es.number.epsilon.js133024941813476588 0
-118C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\css-tree\lib\syntax\node\Rule.js133024831063064095 0
 122C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\features\array\find-index.js133024941818000703 0
 128C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\core\src\requests\DevDepRequest.js133024831061222014 0
 126C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\css-tree\lib\syntax\node\SelectorList.js133024831063161754 0
@@ -5074,7 +5075,7 @@
 119C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\array\to-reversed.js133024941833695087 0
 111C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\es\reflect\set.js133024941831232849 0
 115C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\array\unshift.js133024941835997180 0
-95C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js133027148369512579 0
+95C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js133027368170691903 0
 112C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\array\virtual133024941837178257 1
 142C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\lib\_class_static_private_field_spec_set.js133024831058652240 0
 112C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\core-js\full\array\with.js133024941837188264 0
@@ -6615,7 +6616,7 @@
 132C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@swc\helpers\src\_async_generator_delegate.mjs133024831062502020 0
 127C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\input-color.js133024831067495826 0
 127C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\input-event.js133024831067525137 0
-96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\icons.21bad73c.svg133027147644554582 0
+96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\icons.21bad73c.svg133027367657055471 0
 133C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\input-file-accept.js133024831067534893 0
 105C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\workers\src133024831059477632 1
 136C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\caniuse-lite\data\features\input-file-directory.js133024831067544659 0
@@ -6942,7 +6943,7 @@
 96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\fs133024831057308617 1
 98C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\hash133024831060361925 1
 100C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\logger133024831053888528 1
-96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css133027147643583702 0
+96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css133027367656938269 0
 109C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-image133024831063132456 1
 110C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\optimizer-terser133024831052745915 1
 111C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\@parcel\css\node\index.js133024831053361166 0
@@ -7600,9 +7601,10 @@
 101C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\.bin\parcel.ps1133024831072381937 0
 99C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\.bin\sass.cmd133024833936803184 0
 97C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\node_modules\.bin\semver133024831072401478 0
-98C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\favicon.8b2f57bf.png133027147643603716 0
-96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\icons.dfd7a6db.svg133027147644554582 0
-99C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js.map133027148369542604 0
-100C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css.map133027147643633741 0
-88C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.html133027147644554582 0
-95C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\logo.726d37a8.png133027147643663770 0
+98C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\favicon.8b2f57bf.png133027367656938269 0
+96C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\icons.dfd7a6db.svg133027367657065241 0
+103C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js.19888.9133027348784156909 0
+99C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.e37f48ea.js.map133027368170711438 0
+100C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.f7626f62.css.map133027367656987102 0
+88C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\index.html133027367657055471 0
+95C:\Users\Eun\Desktop\Udemy\complete-javascript-course\18-forkify\starter\dist\logo.726d37a8.png133027367657211723 0
